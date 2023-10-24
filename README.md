@@ -3,7 +3,7 @@
   <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200" /></a>
   <br>
     <br>
-  33 Concepts Every JavaScript Developer Should Know
+   33 تصورات جو ہر جاوا اسکرپٹ ڈویلپر کو پتا ہونا چاہئے
   <br><br>
 </h1>
 
@@ -11,7 +11,8 @@
 
 <!-- [![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso) -->
 
-## Introduction 
+## تعارف 
+
 
 This repository was created with the intention of helping developers master their concepts in JavaScript. It is not a requirement, but a guide for future studies. It is based on an article written by Stephen Curtis and you can read it [here](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
@@ -56,7 +57,7 @@ All the translations for this repo will be listed below:
 - [አማርኛ (Ethiopian)](https://github.com/hmhard/33-js-concepts) - Miniyahil Kebede(ምንያህል ከበደ)
 - [Беларуская мова (Belarussian)](https://github.com/Yafimau/33-js-concepts) — Dzianis Yafimau
 - [O'zbekcha (Uzbek)](https://github.com/smnv-shokh/33-js-concepts) — Shokhrukh Usmonov
-- [Urdu (اردو)](https://github.com/yasir2002/33-js-concepts) — Yasir Nawaz
+- [Urdu (اردو)](https://github.com/husnainfareed/33-js-concepts) — Hussnain Fareed
 - [Marathi (मराठी)](https://github.com/dhruvchandak30/33-js-concepts) - Dhruv Chandak
 - [हिन्दी (Hindi)](https://github.com/milostivyy/33-js-concepts) — Mahima Chauhan
 - [বাংলা (Bengali)](https://github.com/Jisan-mia/33-js-concepts) — Jisan Mia
